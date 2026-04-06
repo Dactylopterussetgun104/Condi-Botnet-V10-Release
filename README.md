@@ -1,4 +1,6 @@
-# Condi Botnet Source Code v10A highly optimized, high-performance botnet infrastructure written in C (Client/Bot) and Golang (C2/CNC Server), designed to be lightweight, stealthy, and extremely powerful on multi-architecture devices.
+# Condi Botnet Source Code v10
+
+A highly optimized, high-performance botnet infrastructure written in C (Client/Bot) and Golang (C2/CNC Server), designed to be lightweight, stealthy, and extremely powerful on multi-architecture devices.
 
 ## Key Features:
 - Robust Go C2 Engine: A scalable Command & Control server featuring a sleek, modern Cyan ANSI interface, multi-user management (Admin/Reseller/API access).
